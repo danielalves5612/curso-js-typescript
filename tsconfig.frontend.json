@@ -19,7 +19,7 @@
     "skipLibCheck": true,
 
     "rootDir": "./src",
-    "outDir": "./dist"
+    "outDir": "./frontend/assets/js"
   },
 
   "include": ["./src"]
